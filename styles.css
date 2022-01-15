@@ -1,0 +1,36 @@
+body{
+    background-color: #E6E6FA;
+}
+img{
+    height: 400px;
+    width: 400px;
+    margin-top : 5px;
+    border : 2px solid red;
+}
+h1{
+    font-family: cursive;
+    color : red;
+}
+h2{
+    color : #0000CD;
+    font-family: cursive;
+}
+p{
+    font-size: 20px;
+}
+
+.aboutme{
+    
+    width : 800px;
+    background-color: #FA8072;
+    color : #FFE4E1;
+    margin : auto;
+    margin-top : 15px;
+}
+a{
+    text-decoration: none;
+    color : white;
+}
+a:hover{
+    color : red;
+}
